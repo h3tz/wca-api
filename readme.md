@@ -25,7 +25,7 @@ I'm in no way affiliated with or part of the official WCA software team.
 | Endpoint             | description
 | :---------------- | :------: 
 | [comp](/V1/competitions.md)    |   Get the next competitions as presented from https://www.worldcubeassociation.org/competitions
-| [results](/V1/results.md)    |   Get all results as presented from [https://www.worldcubeassociation.org/competitions  ](https://www.worldcubeassociation.org/results/rankings/xxx/single)
+| [results](/V1/results.md)    |   Get all results as presented from [https://www.worldcubeassociation.org/results/rankings/xxx/single](https://www.worldcubeassociation.org/results/rankings/xxx/single)
 
 
 ## Endpoints that require Authentication
