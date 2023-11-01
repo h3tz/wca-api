@@ -14,7 +14,7 @@
    
 ## Key Features
 Welcome to the **unofficia**l World Cube Association (WCA) Public API documentation! 
-With this API you will receive data in real-time.
+With this API you will receive  **data in real-time**.
 
 I'm in no way affiliated with or part of the official WCA software team.
 
