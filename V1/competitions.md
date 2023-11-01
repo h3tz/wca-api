@@ -22,7 +22,7 @@ Get a subset of available data as presented from https://www.worldcubeassociatio
 
 - Requesting all upcoming competetions in switzerland
 
-- **Post** : `https://wcascrap-64e44a2b3e5b.herokuapp.com/api/V1/comp?region=switzerland`
+- **GET** : `https://wcascrap-64e44a2b3e5b.herokuapp.com/api/V1/comp?region=switzerland`
 ```json
 [
   {
@@ -56,7 +56,7 @@ Get a subset of available data as presented from https://www.worldcubeassociatio
 
 - Requesting the upcoming competetions (restricted to the next 10)
 
-- **Post** : `https://wcascrap-64e44a2b3e5b.herokuapp.com/api/V1/comp`
+- **GET** : `https://wcascrap-64e44a2b3e5b.herokuapp.com/api/V1/comp`
 ```json
 [
   {
