@@ -17,28 +17,29 @@
 </p>
 
 <p align="center">
-  <a href="#key-features">Key Features</a> •
-  <a href="#how-to-use">How To Use</a> •
-  <a href="#download">Download</a> •
-  <a href="#credits">Credits</a> •
-  <a href="#related">Related</a> •
-  <a href="#license">License</a>
+  <a href="#key-features">Key Features</a> 
 </p>
 
 ## Key Features
-* 
+wip
 
-## API
+## Open Endpoints
+
+| Endpoint             | description
+| :---------------- | :------: 
+| [comp](/V1/competitions.md)    |   Get the next competitions as presented from https://www.worldcubeassociation.org/competitions  
+
+
+## Endpoints that require Authentication
+wip
 
 ## Credits
-
-## Related
-
-[markdownify-web](https://github.com/amitmerchant1990/markdownify-web) - Web version of Markdownify
+wip
 
 ## Support
 
 ## You may also like...
+wip
 
 ## License
 
