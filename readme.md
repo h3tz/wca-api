@@ -1,13 +1,11 @@
 
 <h1 align="center">
+  Unofficial World Cube Association (WCA) Public API - LIVE data
+  <br>
   <br>
   <a href=""><img src="https://i.ibb.co/nQgzJ0P/wca-api.png" alt="WCA API" width="200"></a>
-  <br>
-  WCA API
-  <br>
-</h1>
 
-<h4 align="center">An api offering information scraped from worldcubeassociation.org life on request <a href="worldcubeassociation.org" target="_blank"></a>.</h4>
+</h1>
 
 <p align="center">
   <a href="[https://badge.fury.io/js/electron-markdownify](https://dashboard.heroku.com/apps)">
@@ -16,12 +14,13 @@
   </a> 
 </p>
 
-<p align="center">
-  <a href="#key-features">Key Features</a> 
-</p>
-
 ## Key Features
-wip
+Welcome to the **unofficia**l World Cube Association (WCA) Public API documentation! 
+With this API you will receive data in real-time
+
+The API is updated once a day so rankings and results are not real-time.
+
+I'm in no way affiliated with or part of the official WCA software team.
 
 ## Open Endpoints
 
@@ -40,7 +39,7 @@ wip
 ## Support
 
 ## You may also like...
-wip
+ [[https://www.worldcubeassociation.org/competitions  ](https://github.com/robiningelbrecht/wca-rest-api)https://github.com/robiningelbrecht/wca-rest-api]
 
 ## License
 
