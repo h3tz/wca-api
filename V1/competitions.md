@@ -12,7 +12,7 @@ Get a subset of available data as presented from https://www.worldcubeassociatio
 
 ## Parameters
 
-- country
+- region
 
 ## Success Response
 
@@ -22,13 +22,13 @@ Get a subset of available data as presented from https://www.worldcubeassociatio
 
 - Requesting all upcoming competetions in switzerland
 
-- **Post** : `https://wcascrap-64e44a2b3e5b.herokuapp.com/api/V1/comp?country=switzerland`
+- **Post** : `https://wcascrap-64e44a2b3e5b.herokuapp.com/api/V1/comp?region=switzerland`
 ```json
 [
   {
     "competition": [
       {
-        "country": "Switzerland",
+        "region": "Switzerland",
         "date": "Nov 11 - 12, 2023",
         "venue": "Swiss Science Center",
         "url": "https://www.worldcubeassociation.org/competitions/SwissScienceOpen2023",
@@ -40,7 +40,7 @@ Get a subset of available data as presented from https://www.worldcubeassociatio
   {
     "competition": [
       {
-        "country": "Switzerland",
+        "region": "Switzerland",
         "date": "Dec 16 - 17, 2023",
         "venue": "Sala Multiuso Sonvico",
         "url": "https://www.worldcubeassociation.org/competitions/TicinoWinterOpen2023",
@@ -62,7 +62,7 @@ Get a subset of available data as presented from https://www.worldcubeassociatio
   {
     "competition": [
       {
-        "country": "Spain",
+        "region": "Spain",
         "date": "Nov 1, 2023",
         "venue": "Centro Comercial Sant Boi & Xperience",
         "url": "https://www.worldcubeassociation.org/competitions/NhoodXperienceSideEvents2023",
@@ -74,7 +74,7 @@ Get a subset of available data as presented from https://www.worldcubeassociatio
   {
     "competition": [
       {
-        "country": "Iran",
+        "region": "Iran",
         "date": "Nov 2, 2023",
         "venue": "Ferdowsi Hotel (هتل فردوسی)",
         "url": "https://www.worldcubeassociation.org/competitions/ChekaadAutumn2023",
