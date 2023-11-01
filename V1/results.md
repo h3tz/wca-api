@@ -25,7 +25,7 @@ optional:
 
 - Get the results for 4x4
 
-- **Post** : `https://wcascrap-64e44a2b3e5b.herokuapp.com/api/V1/api/V1/results?event=444`
+- **Post** : `https://wcascrap-64e44a2b3e5b.herokuapp.com/api/V1/results?event=444`
 ```json
  {
     "results": [
@@ -62,7 +62,7 @@ optional:
 
 - Get the results for 4x4 from switzerland
 
-- **Post** : `https://wcascrap-64e44a2b3e5b.herokuapp.com/api/V1/api/V1/results?event=444&region=Switzerland`
+- **Post** : `https://wcascrap-64e44a2b3e5b.herokuapp.com/api/V1/results?event=444&region=Switzerland`
 ```json
 [
   {
