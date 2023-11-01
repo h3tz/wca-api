@@ -3,24 +3,22 @@
   Unofficial World Cube Association (WCA) Public API - LIVE data
   <br>
   <br>
-  <a href=""><img src="https://i.ibb.co/nQgzJ0P/wca-api.png" alt="WCA API" width="200"></a>
-
+ <p><a href=""><img src="https://i.ibb.co/nQgzJ0P/wca-api.png" alt="WCA API" width="200"></a></h1>
 </h1>
-
+ <center>
 <p align="center">
-  <a href="[https://badge.fury.io/js/electron-markdownify](https://dashboard.heroku.com/apps)">
-    <img src="https://github.com/heroku/favicon/raw/master/favicon.iconset/icon_32x32.png""
-         alt="Heroku">
-  </a> 
-</p>
-
+ <a href=""><img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white" alt="WCA API"></a>
+  <a href=""><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="WCA API"></a>
+    <a href=""><img src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="WCA API"></a>
+ </p>
 ## Key Features
 Welcome to the **unofficia**l World Cube Association (WCA) Public API documentation! 
 With this API you will receive data in real-time
 
 The API is updated once a day so rankings and results are not real-time.
-
 I'm in no way affiliated with or part of the official WCA software team.
+
+**Note**: This V1 version will be updated multiple times during the next weeks till V2 a stabilized version is released.
 
 ## Open Endpoints
 
@@ -33,16 +31,7 @@ I'm in no way affiliated with or part of the official WCA software team.
 ## Endpoints that require Authentication
 wip
 
-## Credits
-wip
-
 ## Support
 
 ## You may also like...
- [[https://www.worldcubeassociation.org/competitions  ](https://github.com/robiningelbrecht/wca-rest-api)https://github.com/robiningelbrecht/wca-rest-api]
-
-## License
-
-MIT
-
----
+- Unofficial World Cube Association (WCA) Public API: https://github.com/robiningelbrecht/wca-rest-api
