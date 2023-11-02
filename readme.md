@@ -20,7 +20,7 @@ I'm in no way affiliated with or part of the official WCA software team.
 
 **Note**: This V1 version will be updated multiple times during the next weeks till V2 a stabilized version is released.
 
-**Note**: Currently this app is running in Stalingrad Phase that's why the URL looks that way. Once Tests are done it will be moved to Produktion stage and url will change.
+**Note**: Currently this app is running in staging Phase that's why the URL looks that way. Once Tests are done it will be moved to Produktion stage and url will change.
 
 ## Open Endpoints
 
