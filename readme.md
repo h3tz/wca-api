@@ -28,7 +28,8 @@ wip
 | Endpoint             | description
 | :---------------- | :------: 
 | [comp](/V1/competitions.md)    |   Get the next competitions as presented from https://www.worldcubeassociation.org/competitions
-| [results](/V1/results.md)    |   Get all results as presented from [https://www.worldcubeassociation.org/competitions  ](https://www.worldcubeassociation.org/results/rankings/xxx/single)
+| [results](/V1/results.md)    |   Get all results as presented from [https://www.worldcubeassociation.org/results/rankings/333/single](https://www.worldcubeassociation.org/results/rankings/xxx/single)
+| [records](/V1/records.md)    |   Get all results as presented from [https://www.worldcubeassociation.org/results/records](https://www.worldcubeassociation.org/results/records)
 
 
 ## Endpoints that require Authentication

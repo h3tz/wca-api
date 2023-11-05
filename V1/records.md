@@ -84,7 +84,7 @@ optional:
 
 - Get the records only from 444
 
-- **Post** : `https://wcascrap-64e44a2b3e5b.herokuapp.com/api/V1/results?event=444`
+- **Post** : `https://wcascrap-64e44a2b3e5b.herokuapp.com/api/V1/records?event=444`
 ```json
 {
     "results": [
@@ -129,10 +129,58 @@ optional:
   },
   ...
 ```
+- Get the records only from 444 of switzerland
 
+- **Post** : `https://wcascrap-64e44a2b3e5b.herokuapp.com/api/V1/records?event=444&region=switzerland`
+```json
+[
+  [
+    {
+      "results": [
+        {
+          "event": "333",
+          "region": "Switzerland"
+        }
+      ]
+    },
+    {
+      "result": [
+        {
+          "location": "WCA European Championship 2022",
+          "name": "Richard Delacoste",
+          "pos": "1",
+          "region_rep": "Switzerland",
+          "time_s": "4.63"
+        }
+      ]
+    },
+    {
+      "result": [
+        {
+          "location": "Swisscubing Cup V 2022",
+          "name": "Julian Bürgi",
+          "pos": "2",
+          "region_rep": "Switzerland",
+          "time_s": "5.27"
+        }
+      ]
+    },
+    {
+      "result": [
+        {
+          "location": "Rheinland-Pfalz Open 2023",
+          "name": "Alwin Rölz",
+          "pos": "3",
+          "region_rep": "Switzerland",
+          "time_s": "5.68"
+        }
+      ]
+    }
+  ],
+  ...
+```
 ## Notes
 
-* Only one `event`  can be used. E.g.: event=333&event=444.. is not available
-* Requesting without `region` parameter will only sent back the next 10 competitions from the list
+* Without `event` or `region` it is very time consuming (around 10s)
 
   
