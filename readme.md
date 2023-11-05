@@ -1,27 +1,26 @@
 
 <h1 align="center">
+  Unofficial World Cube Association (WCA) Public API - LIVE data
   <br>
-  <a href=""><img src="https://i.ibb.co/nQgzJ0P/wca-api.png" alt="WCA API" width="200"></a>
   <br>
-  WCA API
-  <br>
+ <p><a href=""><img src="https://i.ibb.co/nQgzJ0P/wca-api.png" alt="WCA API" width="200"></a></h1>
 </h1>
-
-<h4 align="center">An api offering information scraped from worldcubeassociation.org life on request <a href="worldcubeassociation.org" target="_blank"></a>.</h4>
-
+ <center>
 <p align="center">
-  <a href="[https://badge.fury.io/js/electron-markdownify](https://dashboard.heroku.com/apps)">
-    <img src="https://github.com/heroku/favicon/raw/master/favicon.iconset/icon_32x32.png""
-         alt="Heroku">
-  </a> 
-</p>
-
-<p align="center">
-  <a href="#key-features">Key Features</a> 
-</p>
-
+ <a href=""><img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white" alt="WCA API"></a>
+  <a href=""><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="WCA API"></a>
+    <a href=""><img src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="WCA API"></a>
+ </p>
+   
 ## Key Features
-wip
+Welcome to the **unofficia**l World Cube Association (WCA) Public API documentation! 
+With this API you will receive  **data in real-time**.
+
+I'm in no way affiliated with or part of the official WCA software team.
+
+**Note**: This V1 version will be updated multiple times during the next weeks till V2 a stabilized version is released.
+
+**Note**: Currently this app is running in staging Phase (thats the reason the the very long url). Once Tests are done it will be moved to Produktion stage and url will change.
 
 ## Open Endpoints
 
@@ -35,16 +34,13 @@ wip
 ## Endpoints that require Authentication
 wip
 
-## Credits
-wip
-
 ## Support
 
+## Issues
+You can reach me the following way
+- Create an issue
+- Discord id: 528622643310624768
+
 ## You may also like...
-wip
-
-## License
-
-MIT
-
----
+- Unofficial World Cube Association (WCA) Public API: https://github.com/robiningelbrecht/wca-rest-api
+- Senior Ranking: https://logiqx.github.io/wca-ipy-www/Senior_Rankings.html#333-single-40-eu-de

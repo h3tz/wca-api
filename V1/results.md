@@ -24,67 +24,7 @@ optional:
 
 - Get the records of all events (very time consuming)
 
-- **Post** : `https://wcascrap-64e44a2b3e5b.herokuapp.com/api/V1/records`
-```json
- [
-  [
-    {
-      "results": [
-        {
-          "event": "333",
-          "region": ""
-        }
-      ]
-    },
-    {
-      "result": [
-        {
-          "location": "Pride in Long Beach 2023",
-          "name": "Max Park",
-          "pos": "1",
-          "region_rep": "United States",
-          "time_s": "3.13"
-        }
-      ]
-    },
-    {
-      "result": [
-        {
-          "location": "Flag City Summer 2023",
-          "name": "Luke Garrett",
-          "pos": "2",
-          "region_rep": "United States",
-          "time_s": "3.44"
-        }
-      ]
-    },
-    {
-      "result": [
-        {
-          "location": "Wuhu Open 2018",
-          "name": "Yusheng Du (杜宇生)",
-          "pos": "3",
-          "region_rep": "China",
-          "time_s": "3.47"
-        }
-      ]
-    }
-  ],
-  [
-    {
-      "results": [
-        {
-          "event": "222",
-          "region": ""
-        }
-      ]
-    },
-  ...
-```
-
-- Get the records only from 444
-
-- **Post** : `https://wcascrap-64e44a2b3e5b.herokuapp.com/api/V1/results?event=444`
+- **Post** : `https://wcascrap-64e44a2b3e5b.herokuapp.com/api/V1/api/V1/results?event=444`
 ```json
 {
     "results": [
@@ -112,7 +52,24 @@ optional:
         "name": "Sebastian Weyer",
         "pos": "2",
         "region_rep": "Germany",
-        "time_s": "17.13"
+        "time_s": "17.13",
+        "location": "French Championship 2023"
+      }
+    ]
+  },
+  ...
+```
+
+- Get the results for 4x4 from switzerland
+
+- **Post** : `https://wcascrap-64e44a2b3e5b.herokuapp.com/api/V1/api/V1/results?event=444&region=Switzerland`
+```json
+[
+  {
+    "results": [
+      {
+        "event": "444",
+        "region": "Switzerland"
       }
     ]
   },
