@@ -14,7 +14,8 @@ Get a subset of available data as presented from https://www.worldcubeassociatio
   
 optional:
 - region
-- event (222, 333, 444, 555, 666, 777, 333bf, 333fm, 333oh, clock, pyram, skewb, sq1, 444bf, 555bf, 333mbf),
+- event (222, 333, 444, 555, 666, 777, 333bf, 333fm, 333oh, clock, pyram, skewb, sq1, 444bf, 555bf, 333mbf)
+- gender (male, female)
 
 ## Success Response
 
