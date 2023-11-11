@@ -40,6 +40,7 @@ wip
 You can reach me the following way
 - Create an issue
 - Discord id: 528622643310624768
+- [WCA Account](https://www.worldcubeassociation.org/persons/2023HETZ02)
 
 ## You may also like...
 - Unofficial World Cube Association (WCA) Public API: https://github.com/robiningelbrecht/wca-rest-api
