@@ -28,28 +28,18 @@ Get a subset of available data as presented from https://www.worldcubeassociatio
   {
     "competition": [
       {
-        "region": "Switzerland",
-        "date": "Nov 11 - 12, 2023",
-        "venue": "Swiss Science Center",
-        "url": "https://www.worldcubeassociation.org/competitions/SwissScienceOpen2023",
-        "reg_open_utc": "2023-10-09T17:00:00Z",
-        "reg_close_utc": "2023-10-11T06:12:05Z"
+         "region":"Switzerland",
+         "date":"Dec 16 - 17, 2023",
+         "venue":"Sala Multiuso Sonvico",
+         "url":"https://www.worldcubeassociation.org/competitions/TicinoWinterOpen2023",
+         "reg_open_utc":"2023-10-17T19:00:00Z",
+         "reg_close_utc":"2023-12-06T19:00:00Z",
+         "gmaps_url":"https://www.google.com/maps/place/46.057547,8.990467",
+         "gmaps_lat":"46.057547",
+         "gmaps_lng":"8.990467"
       }
     ]
   },
-  {
-    "competition": [
-      {
-        "region": "Switzerland",
-        "date": "Dec 16 - 17, 2023",
-        "venue": "Sala Multiuso Sonvico",
-        "url": "https://www.worldcubeassociation.org/competitions/TicinoWinterOpen2023",
-        "reg_open_utc": "2023-10-17T19:00:00Z",
-        "reg_close_utc": "2023-12-06T19:00:00Z"
-      }
-    ]
-  },
-
     ...  
 ]
 ```
@@ -62,24 +52,30 @@ Get a subset of available data as presented from https://www.worldcubeassociatio
   {
     "competition": [
       {
-        "region": "Spain",
-        "date": "Nov 1, 2023",
-        "venue": "Centro Comercial Sant Boi & Xperience",
-        "url": "https://www.worldcubeassociation.org/competitions/NhoodXperienceSideEvents2023",
-        "reg_open_utc": "2023-10-03T17:15:00Z",
-        "reg_close_utc": "2023-10-29T22:59:00Z"
+        "region":"Colombia",
+        "date":"Nov 13, 2023",
+        "venue":"Centro Comercial Casablanca",
+        "url":"https://www.worldcubeassociation.org/competitions/MadridCundinamarcaII2023",
+        "reg_open_utc":"2023-09-14T19:00:00Z",
+        "reg_close_utc":"2023-11-11T19:00:00Z",
+        "gmaps_url":"https://www.google.com/maps/place/4.72708,-74.256817",
+        "gmaps_lat":"4.72708",
+        "gmaps_lng":"-74.256817"
       }
     ]
   },
   {
     "competition": [
       {
-        "region": "Iran",
-        "date": "Nov 2, 2023",
-        "venue": "Ferdowsi Hotel (هتل فردوسی)",
-        "url": "https://www.worldcubeassociation.org/competitions/ChekaadAutumn2023",
-        "reg_open_utc": "2023-10-07T14:30:00Z",
-        "reg_close_utc": "2023-10-19T20:30:00Z"
+         "region":"United States",
+         "date":"Nov 13, 2023",
+         "venue":"Plymouth Arts and Recreation Center",
+         "url":"https://www.worldcubeassociation.org/competitions/MichiganMini82023",
+         "reg_open_utc":"2023-10-18T00:00:00Z",
+         "reg_close_utc":"2023-11-10T00:00:00Z",
+         "gmaps_url":"https://www.google.com/maps/place/42.373885,-83.467277",
+         "gmaps_lat":"42.373885",
+         "gmaps_lng":"-83.467277"
       }
     ]
   },
