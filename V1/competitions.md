@@ -20,7 +20,7 @@ Get a subset of available data as presented from https://www.worldcubeassociatio
 
 **Content examples**
 
-- Requesting all upcoming competetions in switzerland
+- Requesting all upcoming competitions in Switzerland
 
 - **GET** : `https://wcascrap-64e44a2b3e5b.herokuapp.com/api/V1/comp?region=switzerland`
 ```json
@@ -31,6 +31,7 @@ Get a subset of available data as presented from https://www.worldcubeassociatio
          "region":"Switzerland",
          "date":"Dec 16 - 17, 2023",
          "venue":"Sala Multiuso Sonvico",
+         "name":"Example Comp name here",
          "url":"https://www.worldcubeassociation.org/competitions/TicinoWinterOpen2023",
          "reg_open_utc":"2023-10-17T19:00:00Z",
          "reg_close_utc":"2023-12-06T19:00:00Z",
@@ -44,7 +45,7 @@ Get a subset of available data as presented from https://www.worldcubeassociatio
 ]
 ```
 
-- Requesting the upcoming competetions (restricted to the next 10)
+- Requesting the upcoming competitions (restricted to the next 10)
 
 - **GET** : `https://wcascrap-64e44a2b3e5b.herokuapp.com/api/V1/comp`
 ```json
@@ -55,6 +56,7 @@ Get a subset of available data as presented from https://www.worldcubeassociatio
         "region":"Colombia",
         "date":"Nov 13, 2023",
         "venue":"Centro Comercial Casablanca",
+        "name":"Example Comp name here",
         "url":"https://www.worldcubeassociation.org/competitions/MadridCundinamarcaII2023",
         "reg_open_utc":"2023-09-14T19:00:00Z",
         "reg_close_utc":"2023-11-11T19:00:00Z",
@@ -69,7 +71,8 @@ Get a subset of available data as presented from https://www.worldcubeassociatio
       {
          "region":"United States",
          "date":"Nov 13, 2023",
-         "venue":"Plymouth Arts and Recreation Center",
+         "venue":"Plymouth Arts and Recreation Center",          
+         "name":"Example Comp name here",
          "url":"https://www.worldcubeassociation.org/competitions/MichiganMini82023",
          "reg_open_utc":"2023-10-18T00:00:00Z",
          "reg_close_utc":"2023-11-10T00:00:00Z",
