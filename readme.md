@@ -48,4 +48,5 @@ You can reach me the following way
 
 ## Latest changes
 - 10.11.2023: some bugfixes around gender and draft version of people api
-- 13.11.2023: comps now also return googlemaps url and seperated coords
+- 13.11.2023: comps now also return googlemaps url and separate cords
+- 19.01.2023: comps name is now part of endpoint comp
