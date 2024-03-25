@@ -16,11 +16,11 @@
 Welcome to the **unofficia**l World Cube Association (WCA) Public API documentation! 
 With this API you will receive  **data in real-time**.
 
-I'm in no way affiliated with or part of the official WCA software team.
+I'm not affiliated with or part of the official WCA software team.
 
 **Note**: This V1 version will be updated multiple times during the next weeks till V2 a stabilized version is released.
 
-**Note**: Currently this app is running in the staging Phase (that is the reason the the very long URL). Once Tests are done it will be moved to the production stage and URL will chang
+**Note**: Currently this app is running in the staging Phase (that is the reason for the very long URL). Once Tests are done they will be moved to the production stage and the URL will change
 
 ## Open Endpoints
 
@@ -30,6 +30,10 @@ I'm in no way affiliated with or part of the official WCA software team.
 | [results](/V1/results.md)    |   Get all results as presented from [https://www.worldcubeassociation.org/results/rankings/333/single](https://www.worldcubeassociation.org/results/rankings/xxx/single)
 | [records](/V1/records.md)    |   Get all results as presented from [https://www.worldcubeassociation.org/results/records](https://www.worldcubeassociation.org/results/records)
 
+### Feature highlights
+
+#### Get the next competition registration date
+>  Using the "next" option of the endpoint [comp](/V1/competitions.md)  you will receive the competitions the registration open date and time will be the next one  based on your region
 
 ## Endpoints that require Authentication
 wip
@@ -48,5 +52,6 @@ You can reach me the following way
 
 ## Latest changes
 - 10.11.2023: some bugfixes around gender and draft version of people api
-- 13.11.2023: comps now also return googlemaps url and separate cords
+- 13.11.2023: comps now also return google maps URL and separate cords
 - 19.01.2024: comps name is now part of endpoint comp
+- 25.03.2024: comps get a new attribute "next" to get the next competition based on the registration will open
