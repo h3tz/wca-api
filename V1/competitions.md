@@ -12,7 +12,9 @@ Get a subset of available data as presented from https://www.worldcubeassociatio
 
 ## Parameters
 
+### optional
 - region
+- next
 
 ## Success Response
 
@@ -45,8 +47,7 @@ Get a subset of available data as presented from https://www.worldcubeassociatio
 ]
 ```
 
-- Requesting the upcoming competitions (restricted to the next 10)
-
+- Requesting the next competition 
 - **GET** : `https://wcascrap-64e44a2b3e5b.herokuapp.com/api/V1/comp`
 ```json
 [
@@ -86,10 +87,27 @@ Get a subset of available data as presented from https://www.worldcubeassociatio
     ...
 ]
 ```
+- Requesting the competition of Switzerland for which you can register next based on the register open date and time
+
+- **GET** : `https://wcascrap-64e44a2b3e5b.herokuapp.com/api/V1/comp?region=switzerland&next=1`
+```json
+[
+  {
+    "competition": [
+      {
+         "region":"Switzerland",
+         ...
+      }
+    ]
+  },
+    ...  
+]
+```
 
 ## Notes
 
 * Only `regions`  as offered from https://www.worldcubeassociation.org/competitions can be used.
-* Requesting without `region` parameter will only sent back the next 10 competitions from the list
+* Requesting without the `region` parameter will only send back the next 10 competitions from the list
+* So far only next=1 is supported
 
   
