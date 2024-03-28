@@ -49,6 +49,7 @@ You can reach me the following way
 ## You may also like...
 - Unofficial World Cube Association (WCA) Public API: https://github.com/robiningelbrecht/wca-rest-api
 - Senior Ranking: https://logiqx.github.io/wca-ipy-www/Senior_Rankings.html#333-single-40-eu-de
+- WIP: DiscordBot - WCABuddy
 
 ## Latest changes
 - 10.11.2023: some bugfixes around gender and draft version of people api
