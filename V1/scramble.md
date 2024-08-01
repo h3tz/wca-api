@@ -24,14 +24,14 @@ Receive a scramble
 - **GET** : `https://wcascrap-64e44a2b3e5b.herokuapp.com/api/V1/scramble?event=clock`
 ```json
 [
-  {
-    "result": [
-      {
-        "event": "clock",
-        "scramble": "UL2 UL1 D5 D3 R6 D1 UL5 R1 UL4 R5 R4 DL5 DR5 U5"
-      }
-    ]
-  }
+   {
+      "result":[
+         {
+            "event":"clock",
+            "scramble":"(uuuu,5,5)(uUUu,0,3)(UUuU,-2,-2)(uUuU,4,4)(uUUU,0,5)(uUUU,-5,-4) y2 (UUUu,-4,-2)(uuUU,2,-3)(UuuU,-5,-5)(uuUU,5,0)(UUuU,-3,1)(uuuU,-5,2)"
+         }
+      ]
+   }
 ]
 ```
 ## Notes
