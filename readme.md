@@ -13,13 +13,13 @@
 
 ## Key Features
 
-Welcome to the **unofficial** World Cube Association (WCA) Public API documentation! With this API you will receive **data in real-time**.
+Welcome to the unofficial World Cube Association (WCA) Public API documentation! With this API, you will receive data in real time.
 
 I'm not affiliated with or part of the official WCA software team.
 
-**Note**: This V1 version will be updated multiple times during the next weeks till V2 a stabilized version is released.
+**Note**: This V1 version will be updated multiple times during the next weeks until V2, a stabilized version, is released.
 
-**Note**: Currently this app is running in the staging Phase (that is the reason for the very long URL). Once Tests are done they will be moved to the production stage and the URL will change.
+**Note**: This app is currently running in the staging Phase (that is the reason for the very long URL). Once the Tests are done, they will be moved to the production stage, and the URL will change.
 
 ## Open Endpoints
 
@@ -28,13 +28,13 @@ I'm not affiliated with or part of the official WCA software team.
 | [comp](/V1/competitions.md) | Get the next competitions as presented from https://www.worldcubeassociation.org/competitions |
 | [results](/V1/results.md) | Get all results as presented from [https://www.worldcubeassociation.org/results/rankings/333/single](https://www.worldcubeassociation.org/results/rankings/xxx/single) |
 | [records](/V1/records.md) | Get all results as presented from [https://www.worldcubeassociation.org/results/records](https://www.worldcubeassociation.org/results/records) |
-| [recscramblerds](/V1/scramble.md) | Get a scramble for your cube|
+| [scramble](/V1/scramble.md) | Get a scramble for your cube|
 
 ### Feature highlights
 
 #### Get the next competition registration date
 
-> Using the "next" option of the endpoint [comp](/V1/competitions.md) you will receive the competitions the registration open date and time will be the next one based on your region
+> Using the "next" option of the endpoint [comp](/V1/competitions.md), you will receive the competitions. The registration open date and time will be the next one based on your region
 
 ## Endpoints that require Authentication
 
@@ -56,7 +56,7 @@ You can reach me the following way:
 
 ## Latest changes
 - 10.11.2023: some bugfixes around gender and draft version of people API
-- 13.11.2023: comps now also return google maps URL and separate cords
+- 13.11.2023: comps now also return Google Maps URL and separate cords
 - 19.01.2024: comps name is now part of endpoint comp
 - 25.03.2024: comps get a new attribute "next" to get the next competition based on the registration will open
-- 01.08.2024: scramble (no offical WCA scrambles)
+- 01.08.2024: scramble (no official WCA scrambles)
