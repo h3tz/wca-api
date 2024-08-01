@@ -23,9 +23,9 @@ optional:
 
 **Content examples**
 
-- Get the records of all events (very time consuming)
+- Get the records of all events (very time-consuming)
 
-- **Post** : `https://wcascrap-64e44a2b3e5b.herokuapp.com/api/V1/api/V1/results?event=444`
+- **Post** : `https://wcascrap-64e44a2b3e5b.herokuapp.com/api/V1/results?event=444`
 ```json
 {
     "results": [
@@ -62,9 +62,9 @@ optional:
   ...
 ```
 
-- Get the results for 4x4 from switzerland
+- Get the results for 4x4 from Switzerland
 
-- **Post** : `https://wcascrap-64e44a2b3e5b.herokuapp.com/api/V1/api/V1/results?event=444&region=Switzerland`
+- **Post** : `https://wcascrap-64e44a2b3e5b.herokuapp.com/api/V1/results?event=444&region=Switzerland`
 ```json
 [
   {
@@ -93,6 +93,6 @@ optional:
 ## Notes
 
 * Only one `event`  can be used. E.g.: event=333&event=444.. is not available
-* Requesting without `region` parameter will only sent back the next 10 competitions from the list
+* Requesting without `region` parameter will only send back the next 10 competitions from the list
 
   
