@@ -59,4 +59,4 @@ You can reach me the following way:
 - 13.11.2023: comps now also return Google Maps URL and separate cords
 - 19.01.2024: comps name is now part of endpoint comp
 - 25.03.2024: comps get a new attribute "next" to get the next competition based on the registration will open
-- 01.08.2024: scramble (no official WCA scrambles) including fixes from [Thomas]([https://www.worldcubeassociation.org/persons/2023HETZ02](https://www.worldcubeassociation.org/persons/2018SCHU17)) Thanks !
+- 01.08.2024: scramble (no official WCA scrambles) including fixes from - [WCA Account](https://www.worldcubeassociation.org/persons/2018SCHU17)
