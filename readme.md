@@ -14,13 +14,13 @@
    
 ## Key Features
 Welcome to the **unofficia**l World Cube Association (WCA) Public API documentation! 
-With this API you will receive  **data in real-time**.
+With this API, you will receive  **data in real-time**.
 
 I'm not affiliated with or part of the official WCA software team.
 
-**Note**: This V1 version will be updated multiple times during the next weeks till V2 a stabilized version is released.
+**Note**: This V1 version will be updated multiple times during the next weeks until V2, a stabilized version, is released.
 
-**Note**: Currently this app is running in the staging Phase (that is the reason for the very long URL). Once Tests are done they will be moved to the production stage and the URL will change
+**Note**: Currently, this app is running in the staging Phase (that is the reason for the very long URL). Once Tests are done, they will be moved to the production stage, and the URL will change
 
 ## Open Endpoints
 
@@ -33,7 +33,7 @@ I'm not affiliated with or part of the official WCA software team.
 ### Feature highlights
 
 #### Get the next competition registration date
->  Using the "next" option of the endpoint [comp](/V1/competitions.md)  you will receive the competitions the registration open date and time will be the next one  based on your region
+>  Using the "next" option of the endpoint [comp](/V1/competitions.md),  you will receive the competitions. The registration open date and time will be the next one  based on your region
 
 ## Endpoints that require Authentication
 wip
@@ -53,6 +53,7 @@ You can reach me the following way
 
 ## Latest changes
 - 10.11.2023: some bugfixes around gender and draft version of people api
-- 13.11.2023: comps now also return google maps URL and separate cords
+- 13.11.2023: comps now also return Google Maps URL and separate cords
 - 19.01.2024: comps name is now part of endpoint comp
 - 25.03.2024: comps get a new attribute "next" to get the next competition based on the registration will open
+- 01.08.2024: some fixes in the results area and typos done
