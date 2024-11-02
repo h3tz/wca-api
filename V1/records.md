@@ -23,7 +23,7 @@ optional:
 
 **Content examples**
 
-- Get the records of all events (very time consuming)
+- Get the records of all events (very time-consuming)
 
 - **Post** : `https://wcascrap-64e44a2b3e5b.herokuapp.com/api/V1/records`
 ```json
@@ -130,7 +130,7 @@ optional:
   },
   ...
 ```
-- Get the records only from 444 of switzerland
+- Get the records only from 444 of Switzerland
 
 - **Post** : `https://wcascrap-64e44a2b3e5b.herokuapp.com/api/V1/records?event=444&region=switzerland`
 ```json
@@ -182,6 +182,6 @@ optional:
 ```
 ## Notes
 
-* Without `event` or `region` it is very time consuming (around 10s)
+* Without `event` or `region`, it is very time-consuming (around 10s)
 
   
