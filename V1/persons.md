@@ -34,11 +34,11 @@ Get a subset of available data as presented from https://www.worldcubeassociatio
       "compCount": "11",
       "successfulltries": "176",
       "avatar_url": "https://avatars.worldcubeassociation.org/uploads/user/avatar/2023HETZ02/1698178795.jpg", "events": [] 
-      }
-       ] 
-       } 
+    }
+  ] 
+ }
 ]
 ```
 
 ## Notes
-- Only the full WCAID request are currently supported (e.g. 2023HETZ01). In case more then one person will be available (e.g. you request just 2023) will not return all persons information from every one have 2023 in its WCAID.
+- Only the full WCAID requests are currently supported (e.g. 2023HETZ01). In case more than one person will be available (e.g. you request just 2023) will not return all person's information from every one have 2023 in its WCAID.
