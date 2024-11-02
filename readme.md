@@ -28,7 +28,7 @@ I'm not affiliated with or part of the official WCA software team.
 | [comp](/V1/competitions.md) | Get the next competitions as presented from https://www.worldcubeassociation.org/competitions |
 | [results](/V1/results.md) | Get all results as presented from [https://www.worldcubeassociation.org/results/rankings/333/single](https://www.worldcubeassociation.org/results/rankings/xxx/single) |
 | [records](/V1/records.md) | Get all results as presented from [https://www.worldcubeassociation.org/results/records](https://www.worldcubeassociation.org/results/records) |
-| [persons](/V1/persons.md) | Get all results as presented from [https://www.worldcubeassociation.org/persons](https://www.worldcubeassociation.org/persons) |
+| [persons](/V1/persons.md) | Get very high level information about a person from [https://www.worldcubeassociation.org/persons](https://www.worldcubeassociation.org/persons) |
 | [recscramblerds](/V1/scramble.md) | Get a scramble for your cube|
 
 
