@@ -36,5 +36,5 @@ Receive a scramble
 ```
 ## Notes
 
-* So far it is  just returning the scramble without any usability checks. Community feedback welcome.
+* So far, it is just returning the scramble without any usability checks—community feedback is welcome.
   
