@@ -93,6 +93,6 @@ optional:
 ## Notes
 
 * Only one `event`  can be used. E.g.: event=333&event=444.. is not available
-* Requesting without `region` parameter will only send back the next 10 competitions from the list
+* Requesting without the `region` parameter will only send back the next 10 competitions from the list
 
   
