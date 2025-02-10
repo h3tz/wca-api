@@ -11,6 +11,10 @@
   <a href=""><img src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="WCA API"></a>
 </p>
 
+## OUT OF ORDER
+
+10.02.2025: For a couple of days the unit tests have failed and I need to debug and fix the issues. Right now the service is not available
+
 ## Key Features
 
 Welcome to the unofficial World Cube Association (WCA) Public API documentation! With this API, you will receive data in real time.
